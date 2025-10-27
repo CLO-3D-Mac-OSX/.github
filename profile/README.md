@@ -59,8 +59,6 @@ Optimized for **Apple Silicon**, CLO 3D delivers faster rendering speeds, smooth
 
 ![CLO 3D Workspace](https://i.ytimg.com/vi/m1_NI_-qtfE/maxresdefault.jpg)  
 
-![CLO 3D Simulation Example](https://cgdownload.ru/wp-content/uploads/2023/08/3426_clo-3d.webp)  
-
 ---
 
 ## System Requirements  
